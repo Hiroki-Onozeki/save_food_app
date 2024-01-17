@@ -1,4 +1,9 @@
-# Team-5
+# Save Food APP
+
+## 概要
+このアプリはフードロス削減を目的とした食費管理アプリです。
+楽天5日間インターンにて、5人で共同開発しました。
+https://commerce-engineer.rakuten.careers/internship/summer-short
 
 ## 目次
 - [目次](#目次)
